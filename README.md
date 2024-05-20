@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**viinn-viinn/viinn-viinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Simone (going by viinn-viinn on GitHub) and thanks for stopping by! 
 
 Here are some ideas to get you started:
 
