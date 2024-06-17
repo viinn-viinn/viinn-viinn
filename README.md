@@ -3,7 +3,7 @@
 I'm Simone (going by viinn-viinn on GitHub) and thanks for stopping by! 
 
 - 🔭 I’m currently working on a personal portfolio site. 
-- 🌱 I’m currently learning Python and Java. 
+- 🌱 I’m currently learning Java. 
 - 👯 I’m looking to collaborate on fullstack applications, whether they're real-life solutions or theoretical challenges in a fictional world. 
 - 💬 Ask me about accelerating startup growth, incubators/accelerators, product, hiring, and community building.
 - 📫 How to reach me: simonelapray@gmail.com or connect with me on LinkedIn!
